@@ -13,7 +13,7 @@ dependencies — the landing ships zero client JavaScript.
 ```
 app/
   layout.tsx   — SEO + social metadata, fonts, skip-link, JSON-LD
-  page.tsx     — landing: header landmark, hero, footer landmark (single file)
+  page.tsx     — landing: nav, hero, experiments, how-it-works, principles, join, footer (single file)
   globals.css  — palette, noise, distort, glitch, scanlines, reduced-motion
   icon.svg     — hook favicon
 lib/
